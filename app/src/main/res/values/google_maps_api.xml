@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace with your own Google Maps API Key -->
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyDHGgzxdTGzJ9_RcbevGs9BwME8B5fJ2cQ</string>
+</resources>

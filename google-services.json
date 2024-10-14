@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026839655483",
+    "project_id": "sumativa1-cc17a",
+    "storage_bucket": "sumativa1-cc17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026839655483:android:3f5e83e0c724df7a8fd81e",
+        "android_client_info": {
+          "package_name": "com.example.sumativa1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqF-2Gtd5nacZXaCTIyaCzM11fPlwBc-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
